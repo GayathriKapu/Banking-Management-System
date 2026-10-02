@@ -1,8 +1,10 @@
+gitignore
 # IntelliJ IDEA
 .idea/
 *.iml
 
-# Java / Maven
+# Java / Maven build output
+out/
 backend/target/
 
 # React / Node
